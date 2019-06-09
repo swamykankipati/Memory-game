@@ -78,3 +78,5 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
  we can get additional information to reffer the link shown below
  [Sweetalert](https://sweetalert.js.org/guides/)
+## TO Play the Game 
+[Demo](https://swamykankipati.github.io/front-end-project-memory-game/)
