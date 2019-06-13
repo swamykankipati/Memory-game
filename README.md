@@ -2,7 +2,7 @@
 
 ##Game Moto
 This Game is  logical because of deck of cards and differnt icons and different time shuffle.
-# [Game-Demo](https://swamykankipati.github.io/Front-End-Nano-Degree-Project-Portfolio/Index.html)
+# [Game-Demo](https://swamykankipati.github.io/Front-End-Nano-Degree-memory-game/index.html)
 
 ## Table of Contents
 
