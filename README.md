@@ -80,4 +80,4 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
  we can get additional information to reffer the link shown below
  [Sweetalert](https://sweetalert.js.org/guides/)
 ## TO Play the Game 
-[Demo Click Me](https://swamykankipati.github.io/front-end-project-memory-game/)
+[Demo Click Me](https://swamykankipati.github.io/Front-End-Nano-Degree-Project-2-Memory-game/)
